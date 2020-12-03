@@ -7,9 +7,9 @@ To get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/minhk551992/templatetaiwin.git tailwindcss-playground
+   git clone https://github.com/minhk551992/templatetaiwin.git 
 
-   cd tailwindcss-playground
+   cd templatetaiwin
    ```
 
 2. Install the dependencies:
@@ -35,10 +35,6 @@ To get started:
    Now you should be able to see the project running at localhost:8080.
 
 4. Open `public/index.html` in your editor and start experimenting!
-
-## Play with it on CodeSandbox
-
-A CodeSandbox version of this playground [is one click away](https://codesandbox.io/s/github/tailwindcss/playground/tree/master)!
 
 ## Building for production
 
