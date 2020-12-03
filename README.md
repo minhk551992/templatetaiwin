@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Tailwind CSS template
+=======
+# Tailwind CSS
+>>>>>>> 192654a3ddfedcb092f83c7dec4cc4eb4d3aff89
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
